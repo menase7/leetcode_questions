@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/menase7/leetcode_questions/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
