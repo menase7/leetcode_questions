@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
