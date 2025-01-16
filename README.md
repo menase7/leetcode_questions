@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
 <!---LeetCode Topics End-->
