@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
