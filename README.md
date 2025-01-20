@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/menase7/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/menase7/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [1764-maximum-repeating-substring](https://github.com/menase7/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
