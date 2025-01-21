@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/menase7/leetcode_questions/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/menase7/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/menase7/leetcode_questions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2752-sum-multiples](https://github.com/menase7/leetcode_questions/tree/master/2752-sum-multiples) |
 ## Array
 |  |
 | ------- |
