@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/menase7/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
