@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/menase7/leetcode_questions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/menase7/leetcode_questions/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
