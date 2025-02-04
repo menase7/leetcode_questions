@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/menase7/leetcode_questions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/menase7/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/menase7/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1764-maximum-repeating-substring](https://github.com/menase7/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/menase7/leetcode_questions/tree/master/3731-sum-of-variable-length-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
