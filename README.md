@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/menase7/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/menase7/leetcode_questions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1965-sum-of-digits-in-base-k](https://github.com/menase7/leetcode_questions/tree/master/1965-sum-of-digits-in-base-k) |
+| [2383-add-two-integers](https://github.com/menase7/leetcode_questions/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/menase7/leetcode_questions/tree/master/2752-sum-multiples) |
 ## Array
 |  |
