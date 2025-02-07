@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
