@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/menase7/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/menase7/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
 |  |
