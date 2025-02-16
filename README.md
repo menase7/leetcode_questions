@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/menase7/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/menase7/leetcode_questions/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/menase7/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/menase7/leetcode_questions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
