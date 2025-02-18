@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
