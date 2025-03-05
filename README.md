@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2486-most-frequent-even-element](https://github.com/menase7/leetcode_questions/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3644-minimum-positive-sum-subarray](https://github.com/menase7/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/menase7/leetcode_questions/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/menase7/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/menase7/leetcode_questions/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2486-most-frequent-even-element](https://github.com/menase7/leetcode_questions/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [2486-most-frequent-even-element](https://github.com/menase7/leetcode_questions/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Brainteaser
 |  |
