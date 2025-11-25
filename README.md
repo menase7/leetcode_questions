@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/menase7/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [1051-height-checker](https://github.com/menase7/leetcode_questions/tree/master/1051-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/menase7/leetcode_questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2486-most-frequent-even-element](https://github.com/menase7/leetcode_questions/tree/master/2486-most-frequent-even-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/menase7/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/menase7/leetcode_questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/menase7/leetcode_questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2486-most-frequent-even-element](https://github.com/menase7/leetcode_questions/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/menase7/leetcode_questions/tree/master/1051-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/menase7/leetcode_questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
