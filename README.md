@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/menase7/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/menase7/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/menase7/leetcode_questions/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/menase7/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
