@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/menase7/leetcode_questions/tree/master/1051-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/menase7/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/menase7/leetcode_questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/menase7/leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/menase7/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2486-most-frequent-even-element](https://github.com/menase7/leetcode_questions/tree/master/2486-most-frequent-even-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/menase7/leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/menase7/leetcode_questions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/menase7/leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/menase7/leetcode_questions/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/menase7/leetcode_questions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/menase7/leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
