@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/menase7/leetcode_questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/menase7/leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/menase7/leetcode_questions/tree/master/2594-count-pairs-of-similar-strings) |
+| [3174-clear-digits](https://github.com/menase7/leetcode_questions/tree/master/3174-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/menase7/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [3174-clear-digits](https://github.com/menase7/leetcode_questions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/menase7/leetcode_questions/tree/master/1051-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/menase7/leetcode_questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
