@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/menase7/leetcode_questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/menase7/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/menase7/leetcode_questions/tree/master/0494-target-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/menase7/leetcode_questions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/menase7/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/menase7/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/menase7/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
