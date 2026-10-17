@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/menase7/leetcode_questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/menase7/leetcode_questions/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/menase7/leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/menase7/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/menase7/leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/menase7/leetcode_questions/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/menase7/leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/menase7/leetcode_questions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/menase7/leetcode_questions/tree/master/0392-is-subsequence) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/menase7/leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/menase7/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
